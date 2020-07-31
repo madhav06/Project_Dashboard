@@ -1,3 +1,4 @@
+# Ep2
 # A variable is a something that stores data at some location called " memory ".
 
 # new_var = 5
