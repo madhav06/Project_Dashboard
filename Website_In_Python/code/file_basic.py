@@ -1,3 +1,4 @@
+# Ep17and18
 # A file operation takes place in the following order.
 
 # Open a file
@@ -18,6 +19,7 @@ f = open("test.txt", encoding='utf-8')
 # perform file operations
 f.close()
 
+# 
 # In order to write a file in python, we need to open it in 'w', append 'a' 
 # or exclusive creation 'x' mode.
 # 
